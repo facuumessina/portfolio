@@ -52,6 +52,6 @@ Start the server
 
 ## 📲 Screenshots
 
-![App Screenshot](Images/iPhone 15 Pro Max Mockup.png)
+![App Screenshot](/Images/iPhone 15 Pro Max Mockup.png)
 
-![App Screenshot](Images/Macbook Mockup.png)
+![App Screenshot](/Images/Macbook Mockup.png)
