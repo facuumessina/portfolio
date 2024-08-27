@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56eecec9.css",
+    "main.js": "/static/js/main.789699e3.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/project_chaco.png": "/static/media/project_chaco.3dd14ca11976f57684ac.png",
+    "static/media/smartProfit_project.png": "/static/media/smartProfit_project.61ba818f7795d4db255a.png",
+    "static/media/project_Rick_Morty.png": "/static/media/project_Rick_Morty.b23458b76ce5a546ffd0.png",
+    "static/media/Facundo_Messina_CV.pdf": "/static/media/Facundo_Messina_CV.c9d2b12c87aff2e95d79.pdf",
+    "static/media/homePicture.png": "/static/media/homePicture.5309e0efec1e5558e1aa.png",
+    "static/media/aboutPicture.png": "/static/media/aboutPicture.b1c25238634c386c08ec.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.0372d70042c5a66bc3fd.jpg",
+    "static/media/pre.svg": "/static/media/pre.00a66933b739a46e3340.svg",
+    "index.html": "/index.html",
+    "main.56eecec9.css.map": "/static/css/main.56eecec9.css.map",
+    "main.789699e3.js.map": "/static/js/main.789699e3.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56eecec9.css",
+    "static/js/main.789699e3.js"
+  ]
+}
